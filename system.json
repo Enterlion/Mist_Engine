@@ -1,7 +1,7 @@
 {
 	"id": "mist-engine-custom",
 	"title": "Enterlion's Mist Engine",
-	"description": "Custom Mist Engine system for Foundry VTT",
+	"description": "Unofficial Mist Engine for FoundryVTT",
 	"authors": [
 		{
 			"name": "Enterlion",
@@ -40,6 +40,6 @@
 		{"name": "macro", "label": "Macros", "system": "mist-engine-custom", "path": "packs/macro.db", "type": "Macro", "private": false, "flags": {}}
 	],
 	"socket": true,
-	"manifest": "https://raw.githubusercontent.com/Enterlion/Mist_Engine/main/src/city-of-mist/system.json",
+	"manifest": "https://raw.githubusercontent.com/Enterlion/Mist_Engine/main/system.json",
 	"download": "https://github.com/Enterlion/Mist_Engine/releases/download/v1.0.0/mist-engine-custom-v1.0.0.zip"
 }
