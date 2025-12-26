@@ -1,16 +1,15 @@
 {
-	"id": "city-of-mist",
-	"title": "City of Mist / Mist Engine",
-	"description": "Unofficial City of Mist RPG system as well as providing limited support for other Mist Engine games like Otherscape and Legend in the Mist",
+	"id": "mist-engine-custom",
+	"title": "Enterlion's Mist Engine",
+	"description": "Unofficial Mist Engine for FoundryVTT",
 	"authors": [
 		{
-			"name": "Taragnor",
-			"discord": "Taragnor#3338",
+			"name": "Enterlion",
 			"flags": {}
 		}
 	],
-	"url": "https://github.com/taragnor/city-of-mist/",
-	"version": "4.0.4",
+	"url": "https://github.com/Enterlion/Mist_Engine/",
+	"version": "1.0.0",
 	"compatibility": {
 		"minimum": "13",
 		"verified": "13.350",
@@ -103,6 +102,6 @@
     }
   ],
   "socket": true,
-  "manifest": "https://raw.githubusercontent.com/taragnor/city-of-mist/main/system.json",
-  "download": "https://github.com/taragnor/city-of-mist/releases/download/v.4.0.4/city-of-mist.zip"
+  "manifest": "https://raw.githubusercontent.com/Enterlion/Mist_Engine/main/system.json",
+  "download": "https://github.com/Enterlion/Mist_Engine/releases/download/v1.0.0/mist-engine-custom.zip"
 }
