@@ -635,7 +635,7 @@ button.clue-use-button:hover {
     font-family: 'Averia Serif Libre';
     font-size: 1em;
     line-height: 1.3em;
-    background: url(../images/paperbg.webp) repeat;
+    background: #fafaf8;
     background-size: 300%;
     border: 2px solid var(--color-border-light-primary);
     border-top-left-radius: 1em;
