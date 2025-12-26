@@ -1,7 +1,7 @@
 {
 	"id": "mist-engine-custom",
 	"title": "Enterlion's Mist Engine",
-	"description": "Unofficial Mist Engine for FoundryVTT",
+	"description": "Custom Mist Engine system for Foundry VTT",
 	"authors": [
 		{
 			"name": "Enterlion",
@@ -15,93 +15,31 @@
 		"verified": "13.350",
 		"maximum": "13"
 	},
-	"esmodules": [
-		"module/city.js"
-  ],
-  "styles": [
-	  "styles/city.css",
-	  "module/token-tooltip/tooltip.css",
-	  "module/city-status-tracker/city-status-tracker.css",
-	  "styles/com.css",
-	  "styles/otherscape.css",
-	  "styles/legend.css",
-	  "styles/mist-engine.css"
-  ],
-  "languages": [
-	  {
-		  "lang": "en",
-		  "name": "English",
-		  "path": "lang/en.json",
-		  "flags": {}
-	  },
-	  {
-		  "lang": "de",
-		  "name": "German",
-		  "path": "lang/de.json",
-		  "flags": {}
-	  },
-	  {
-		  "lang": "pl",
-		  "name": "Polish",
-		  "path": "lang/pl.json",
-		  "flags": {}
-	  },
-	  {
-		  "lang": "pt-BR",
-		  "name": "Português (Brasil)",
-		  "path": "lang/pt-br.json",
-		  "flags": {}
-	  },
-	  {
-		  "lang": "fr",
-		  "name": "French",
-		  "path": "lang/fr.json",
-		  "flags": {}
-	  },
-	  {
-		  "lang": "it",
-		  "name": "Italian",
-		  "path": "lang/it.json",
-		  "flags": {}
-	  },
-	  {
-		  "lang": "es",
-		  "name": "Español (placeholder)",
-		  "path": "lang/es.json",
-		  "flags": {}
-	  }
-
-  ],
-  "packs": [
-    {
-      "name": "themebook",
-      "label": "CoM Data",
-      "system": "city-of-mist",
-      "path": "packs/themebooks.db",
-      "type": "Item",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "name": "sampleDangers",
-      "label": "Sample Dangers",
-      "system": "city-of-mist",
-      "path": "packs/sampledangers.db",
-      "type": "Actor",
-      "private": false,
-      "flags": {}
-    },
-    {
-      "name": "macro",
-      "label": "Macros",
-      "system": "city-of-mist",
-      "path": "packs/macro.db",
-      "type": "Macro",
-      "private": false,
-      "flags": {}
-    }
-  ],
-  "socket": true,
-  "manifest": "https://raw.githubusercontent.com/Enterlion/Mist_Engine/main/system.json",
-  "download": "https://github.com/Enterlion/Mist_Engine/releases/download/v1.0.0/mist-engine-custom.zip"
+	"esmodules": ["module/city.js"],
+	"styles": [
+		"styles/city.css",
+		"module/token-tooltip/tooltip.css",
+		"module/city-status-tracker/city-status-tracker.css",
+		"styles/com.css",
+		"styles/otherscape.css",
+		"styles/legend.css",
+		"styles/mist-engine.css"
+	],
+	"languages": [
+		{"lang": "en", "name": "English", "path": "lang/en.json", "flags": {}},
+		{"lang": "de", "name": "German", "path": "lang/de.json", "flags": {}},
+		{"lang": "pl", "name": "Polish", "path": "lang/pl.json", "flags": {}},
+		{"lang": "pt-BR", "name": "Português (Brasil)", "path": "lang/pt-br.json", "flags": {}},
+		{"lang": "fr", "name": "French", "path": "lang/fr.json", "flags": {}},
+		{"lang": "it", "name": "Italian", "path": "lang/it.json", "flags": {}},
+		{"lang": "es", "name": "Español (placeholder)", "path": "lang/es.json", "flags": {}}
+	],
+	"packs": [
+		{"name": "themebook", "label": "CoM Data", "system": "mist-engine-custom", "path": "packs/themebooks.db", "type": "Item", "private": false, "flags": {}},
+		{"name": "sampleDangers", "label": "Sample Dangers", "system": "mist-engine-custom", "path": "packs/sampledangers.db", "type": "Actor", "private": false, "flags": {}},
+		{"name": "macro", "label": "Macros", "system": "mist-engine-custom", "path": "packs/macro.db", "type": "Macro", "private": false, "flags": {}}
+	],
+	"socket": true,
+	"manifest": "https://raw.githubusercontent.com/Enterlion/Mist_Engine/main/src/city-of-mist/system.json",
+	"download": "https://github.com/Enterlion/Mist_Engine/releases/download/v1.0.0/mist-engine-custom-v1.0.0.zip"
 }
