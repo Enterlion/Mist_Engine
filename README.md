@@ -1,5 +1,5 @@
 # City of Mist for Foundry VTT
-**Created By:** Taragnor <br>
+**Created By:** Taragnor, modified by Enterlion<br>
 **Visual/CSS design by:** LorduFreeman <br>
 **Additional Code Contributions by:** Plenett/Galdormin, Ch1sKey, 3rdDog (Paul) <br> 
 **Localizations:** 
