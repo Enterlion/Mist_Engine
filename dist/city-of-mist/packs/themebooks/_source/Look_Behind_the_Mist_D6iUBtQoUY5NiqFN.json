@@ -1,0 +1,47 @@
+{
+  "name": "Look Behind the Mist",
+  "type": "move",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "",
+    "locked": false,
+    "version": "2.6.6",
+    "free_content": true,
+    "locale_name": "#CityOfMist.moves.LBTM.name",
+    "onSuccess": "#CityOfMist.moves.investigate.success",
+    "onDynamite": "#CityOfMist.moves.investigate.dynamite",
+    "onMiss": "#CityOfMist.moves.genericFail",
+    "onPartial": "#CityOfMist.moves.investigate.partial",
+    "always": "",
+    "listConditionals": [],
+    "category": "Advanced",
+    "effect_class": "CHOICEPAR1 CLUES",
+    "abbreviation": "LOOKBEHIND",
+    "subtype": "themeclassroll",
+    "system_compatiblity": "city-of-mist,city-of-mist",
+    "theme_class": "Mist"
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "XObjulrAnIfZ284S": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "city-of-mist",
+    "systemVersion": "2.7.1",
+    "coreVersion": "13.345",
+    "createdTime": 1683271982905,
+    "modifiedTime": 1712594110605,
+    "lastModifiedBy": "XObjulrAnIfZ284S",
+    "compendiumSource": "Item.ayDTXyEFfX14tn3l",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "folder": "mdXZYTXjdSdobcIp",
+  "sort": 1000000,
+  "_id": "D6iUBtQoUY5NiqFN",
+  "_key": "!items!D6iUBtQoUY5NiqFN"
+}

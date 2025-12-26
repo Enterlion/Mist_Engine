@@ -1,0 +1,48 @@
+{
+  "_id": "AK5qh4cmnbhZz8kq",
+  "name": "Convince",
+  "type": "move",
+  "img": "icons/svg/mystery-man.svg",
+  "effects": [],
+  "folder": "mdXZYTXjdSdobcIp",
+  "sort": 2000000,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "When you use your abilities to talk, threaten, or seduce someone into doing something, roll+Power.",
+    "locked": false,
+    "version": "2.6.6",
+    "free_content": true,
+    "locale_name": "#CityOfMist.moves.convince.name",
+    "onSuccess": "#CityOfMist.moves.convince.success",
+    "onDynamite": "#CityOfMist.moves.convince.dynamite",
+    "onMiss": "#CityOfMist.moves.genericFail",
+    "onPartial": "#CityOfMist.moves.convince.partial",
+    "always": "",
+    "listConditionals": [],
+    "category": "Core",
+    "effect_class": "",
+    "abbreviation": "CON",
+    "subtype": "standard",
+    "theme_class": "",
+    "system_compatiblity": "city-of-mist",
+    "systemName": ""
+  },
+  "ownership": {
+    "default": 0,
+    "XObjulrAnIfZ284S": 3
+  },
+  "_stats": {
+    "systemId": "city-of-mist",
+    "systemVersion": "3.1.4",
+    "coreVersion": "13.345",
+    "createdTime": 1712594110605,
+    "modifiedTime": 1749516076094,
+    "lastModifiedBy": "eZoEWX0q5xnrYPGQ",
+    "compendiumSource": "Item.MH7B3CQXUNhIig8X",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!AK5qh4cmnbhZz8kq"
+}

@@ -1,0 +1,138 @@
+{
+  "_id": "nopE3UjirO3CIKFB",
+  "name": "Shrouding",
+  "type": "themebook",
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "folder": "BXvixIBuJvx2z59I",
+  "sort": 0,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "",
+    "locked": false,
+    "version": "2.4.5",
+    "free_content": true,
+    "locale_name": "#CityOfMist.themebook.shrouding.name",
+    "type": "Mist",
+    "power_questions": {
+      "A": {
+        "question": "#CityOfMist.themebook.shrouding.reference",
+        "subtag": false
+      },
+      "B": {
+        "question": "#CityOfMist.themebook.shrouding.reference",
+        "subtag": false
+      },
+      "C": {
+        "question": "#CityOfMist.themebook.shrouding.reference",
+        "subtag": false
+      },
+      "D": {
+        "question": "#CityOfMist.themebook.shrouding.reference",
+        "subtag": false
+      },
+      "E": {
+        "question": "#CityOfMist.themebook.shrouding.reference",
+        "subtag": false
+      },
+      "F": {
+        "question": "#CityOfMist.themebook.shrouding.reference",
+        "subtag": false
+      },
+      "G": {
+        "question": "#CityOfMist.themebook.shrouding.reference",
+        "subtag": false
+      },
+      "H": {
+        "question": "#CityOfMist.themebook.shrouding.reference",
+        "subtag": false
+      },
+      "I": {
+        "question": "#CityOfMist.themebook.shrouding.reference",
+        "subtag": false
+      },
+      "J": {
+        "question": "#CityOfMist.themebook.shrouding.reference",
+        "subtag": false
+      },
+      "K": "_DELETED_",
+      "L": "_DELETED_",
+      "M": "_DELETED_",
+      "N": "_DELETED_",
+      "O": "_DELETED_"
+    },
+    "weakness_questions": {
+      "A": {
+        "question": "#CityOfMist.themebook.shrouding.reference",
+        "subtag": false
+      },
+      "B": {
+        "question": "#CityOfMist.themebook.shrouding.reference",
+        "subtag": false
+      },
+      "C": {
+        "question": "#CityOfMist.themebook.shrouding.reference",
+        "subtag": false
+      },
+      "D": {
+        "question": "#CityOfMist.themebook.shrouding.reference",
+        "subtag": false
+      },
+      "E": "_DELETED_"
+    },
+    "improvements": {
+      "0": {
+        "name": "#CityOfMist.themebook.shrouding.imp.0.name",
+        "description": "#CityOfMist.themebook.shrouding.reference",
+        "uses": null,
+        "effect_class": ""
+      },
+      "1": {
+        "name": "#CityOfMist.themebook.shrouding.imp.1.name",
+        "description": "#CityOfMist.themebook.shrouding.reference",
+        "uses": 1,
+        "effect_class": ""
+      },
+      "2": {
+        "name": "#CityOfMist.themebook.shrouding.imp.2.name",
+        "description": "#CityOfMist.themebook.shrouding.reference",
+        "uses": null,
+        "effect_class": ""
+      },
+      "3": {
+        "name": "#CityOfMist.themebook.shrouding.imp.3.name",
+        "description": "#CityOfMist.themebook.shrouding.reference",
+        "uses": null,
+        "effect_class": ""
+      },
+      "4": {
+        "name": "#CityOfMist.themebook.shrouding.imp.4.name",
+        "description": "#CityOfMist.themebook.shrouding.reference",
+        "uses": null,
+        "effect_class": ""
+      }
+    },
+    "subtype": "Mist",
+    "motivation": "directive",
+    "system_compatiblity": "city-of-mist",
+    "systemName": "Shrouding"
+  },
+  "ownership": {
+    "default": 0,
+    "XObjulrAnIfZ284S": 3
+  },
+  "_stats": {
+    "systemId": "city-of-mist",
+    "systemVersion": "3.1.4",
+    "coreVersion": "13.345",
+    "createdTime": null,
+    "modifiedTime": 1749514007714,
+    "lastModifiedBy": "eZoEWX0q5xnrYPGQ",
+    "compendiumSource": "Item.DW2GZSFGfD3VwXiA",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!nopE3UjirO3CIKFB"
+}

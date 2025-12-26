@@ -1,0 +1,130 @@
+{
+  "_id": "UckXkveVIfX3iGIC",
+  "name": "Struggle",
+  "type": "themebook",
+  "img": "icons/svg/mystery-man.svg",
+  "effects": [],
+  "folder": "7ji0PqBuZO78BzmB",
+  "sort": 175000,
+  "flags": {},
+  "system": {
+    "description": "",
+    "locked": false,
+    "version": "2.4.5",
+    "free_content": true,
+    "locale_name": "#CityOfMist.themebook.struggle.name",
+    "type": "Logos",
+    "power_questions": {
+      "A": {
+        "question": "SEE SHADOWS AND SHOWDOWNS P 28-32",
+        "subtag": false
+      },
+      "B": {
+        "question": "SEE SHADOWS AND SHOWDOWNS P 28-32",
+        "subtag": false
+      },
+      "C": {
+        "question": "SEE SHADOWS AND SHOWDOWNS P 28-32",
+        "subtag": false
+      },
+      "D": {
+        "question": "SEE SHADOWS AND SHOWDOWNS P 28-32",
+        "subtag": false
+      },
+      "E": {
+        "question": "SEE SHADOWS AND SHOWDOWNS P 28-32",
+        "subtag": false
+      },
+      "F": {
+        "question": "SEE SHADOWS AND SHOWDOWNS P 28-32",
+        "subtag": false
+      },
+      "G": {
+        "question": "SEE SHADOWS AND SHOWDOWNS P 28-32",
+        "subtag": false
+      },
+      "H": {
+        "question": "SEE SHADOWS AND SHOWDOWNS P 28-32",
+        "subtag": false
+      },
+      "I": {
+        "question": "SEE SHADOWS AND SHOWDOWNS P 28-32",
+        "subtag": false
+      },
+      "J": {
+        "question": "SEE SHADOWS AND SHOWDOWNS P 28-32",
+        "subtag": false
+      },
+      "K": "_DELETED_"
+    },
+    "weakness_questions": {
+      "A": {
+        "question": "SEE SHADOWS AND SHOWDOWNS P 28-32",
+        "subtag": false
+      },
+      "B": {
+        "question": "SEE SHADOWS AND SHOWDOWNS P 28-32",
+        "subtag": false
+      },
+      "C": {
+        "question": "SEE SHADOWS AND SHOWDOWNS P 28-32",
+        "subtag": false
+      },
+      "D": {
+        "question": "SEE SHADOWS AND SHOWDOWNS P 28-32",
+        "subtag": false
+      }
+    },
+    "improvements": {
+      "0": {
+        "name": "Evolution Through Hardship",
+        "description": "SEE SHADOWS AND SHOWDOWNS P 28-32",
+        "uses": null,
+        "effect_class": ""
+      },
+      "1": {
+        "name": "Driven by Compassion",
+        "description": "SEE SHADOWS AND SHOWDOWNS P 28-32",
+        "uses": 1,
+        "effect_class": ""
+      },
+      "2": {
+        "name": "Going Through the Motions",
+        "description": "SEE SHADOWS AND SHOWDOWNS P 28-32",
+        "uses": null,
+        "effect_class": "THEME_DYN_SELECT"
+      },
+      "3": {
+        "name": "Touchy Subject",
+        "description": "SEE SHADOWS AND SHOWDOWNS P 28-32",
+        "uses": null,
+        "effect_class": ""
+      },
+      "4": {
+        "name": "You Can’t Break Me",
+        "description": "SEE SHADOWS AND SHOWDOWNS P 28-32",
+        "uses": null,
+        "effect_class": ""
+      }
+    },
+    "motivation": "identity",
+    "system_compatiblity": "city-of-mist",
+    "systemName": "Struggle"
+  },
+  "ownership": {
+    "default": 0,
+    "vLgbC4k0egBgZMMz": 3
+  },
+  "_stats": {
+    "systemId": "city-of-mist",
+    "systemVersion": "3.1.4",
+    "coreVersion": "13.345",
+    "createdTime": null,
+    "modifiedTime": 1749513966841,
+    "lastModifiedBy": "eZoEWX0q5xnrYPGQ",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!UckXkveVIfX3iGIC"
+}

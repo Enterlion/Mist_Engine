@@ -1,0 +1,131 @@
+{
+  "_id": "k3XJLcAqTiG4EC5k",
+  "name": "Mission",
+  "type": "themebook",
+  "img": "icons/svg/mystery-man.svg",
+  "effects": [],
+  "folder": "7ji0PqBuZO78BzmB",
+  "sort": 100000,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "",
+    "locked": false,
+    "version": "2.4.5",
+    "free_content": true,
+    "locale_name": "#CityOfMist.themebook.mission.name",
+    "type": "Logos",
+    "power_questions": {
+      "A": {
+        "question": "#CityOfMist.themebook.mission.reference",
+        "subtag": false
+      },
+      "B": {
+        "question": "#CityOfMist.themebook.mission.reference",
+        "subtag": false
+      },
+      "C": {
+        "question": "#CityOfMist.themebook.mission.reference",
+        "subtag": false
+      },
+      "D": {
+        "question": "#CityOfMist.themebook.mission.reference",
+        "subtag": false
+      },
+      "E": {
+        "question": "#CityOfMist.themebook.mission.reference",
+        "subtag": false
+      },
+      "F": {
+        "question": "#CityOfMist.themebook.mission.reference",
+        "subtag": false
+      },
+      "G": {
+        "question": "#CityOfMist.themebook.mission.reference",
+        "subtag": false
+      },
+      "H": {
+        "question": "#CityOfMist.themebook.mission.reference",
+        "subtag": false
+      },
+      "I": {
+        "question": "#CityOfMist.themebook.mission.reference",
+        "subtag": false
+      },
+      "J": {
+        "question": "#CityOfMist.themebook.mission.reference",
+        "subtag": false
+      }
+    },
+    "weakness_questions": {
+      "A": {
+        "question": "#CityOfMist.themebook.mission.reference",
+        "subtag": false
+      },
+      "B": {
+        "question": "#CityOfMist.themebook.mission.reference",
+        "subtag": false
+      },
+      "C": {
+        "question": "#CityOfMist.themebook.mission.reference",
+        "subtag": false
+      },
+      "D": {
+        "question": "#CityOfMist.themebook.mission.reference",
+        "subtag": false
+      }
+    },
+    "improvements": {
+      "0": {
+        "name": "#CityOfMist.themebook.mission.imp.0.name",
+        "description": "#CityOfMist.themebook.mission.reference",
+        "uses": null,
+        "effect_class": ""
+      },
+      "1": {
+        "name": "#CityOfMist.themebook.mission.imp.1.name",
+        "description": "#CityOfMist.themebook.mission.reference",
+        "uses": null,
+        "effect_class": ""
+      },
+      "2": {
+        "name": "#CityOfMist.themebook.mission.imp.2.name",
+        "description": "#CityOfMist.themebook.mission.reference",
+        "uses": null,
+        "effect_class": ""
+      },
+      "3": {
+        "name": "#CityOfMist.themebook.mission.imp.3.name",
+        "description": "#CityOfMist.themebook.mission.reference",
+        "uses": null,
+        "effect_class": ""
+      },
+      "4": {
+        "name": "#CityOfMist.themebook.mission.imp.4.name",
+        "description": "#CityOfMist.themebook.mission.reference",
+        "uses": null,
+        "effect_class": "THEME_DYN_SELECT"
+      }
+    },
+    "motivation": "identity",
+    "system_compatiblity": "city-of-mist",
+    "systemName": "Mission"
+  },
+  "ownership": {
+    "default": 0,
+    "vLgbC4k0egBgZMMz": 3
+  },
+  "_stats": {
+    "systemId": "city-of-mist",
+    "systemVersion": "3.1.4",
+    "coreVersion": "13.345",
+    "createdTime": null,
+    "modifiedTime": 1749513948814,
+    "lastModifiedBy": "eZoEWX0q5xnrYPGQ",
+    "compendiumSource": "Item.6dKSMNHTQEW07H57",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!k3XJLcAqTiG4EC5k"
+}

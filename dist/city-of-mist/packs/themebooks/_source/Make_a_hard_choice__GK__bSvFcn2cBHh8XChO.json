@@ -1,0 +1,47 @@
+{
+  "name": "Make a hard choice (GK)",
+  "type": "move",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "",
+    "locked": false,
+    "version": "2.6.6",
+    "free_content": true,
+    "locale_name": "#CityOfMist.moves.hardchoiceGK.name",
+    "onSuccess": "",
+    "onDynamite": "",
+    "onMiss": "MC Move.",
+    "onPartial": "",
+    "always": "#CityOfMist.moves.hardchoiceGK.always",
+    "listConditionals": [],
+    "category": "Advanced",
+    "effect_class": "MIST",
+    "abbreviation": "HARDCHOICE_GK",
+    "subtype": "noroll",
+    "system_compatiblity": "city-of-mist,city-of-mist",
+    "theme_class": ""
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "XObjulrAnIfZ284S": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "city-of-mist",
+    "systemVersion": "2.7.1",
+    "coreVersion": "13.345",
+    "createdTime": 1683274343678,
+    "modifiedTime": 1712594110605,
+    "lastModifiedBy": "XObjulrAnIfZ284S",
+    "compendiumSource": "Item.S88B08WWtKe3BLJN",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "folder": "mdXZYTXjdSdobcIp",
+  "sort": 700000,
+  "_id": "bSvFcn2cBHh8XChO",
+  "_key": "!items!bSvFcn2cBHh8XChO"
+}

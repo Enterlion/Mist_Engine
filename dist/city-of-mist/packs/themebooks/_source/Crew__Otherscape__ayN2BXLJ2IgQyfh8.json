@@ -1,0 +1,130 @@
+{
+  "folder": "Jmux78DjNkcoxF1y",
+  "name": "Crew (Otherscape)",
+  "type": "themebook",
+  "_id": "ayN2BXLJ2IgQyfh8",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "",
+    "locked": false,
+    "version": "1",
+    "free_content": true,
+    "subtype": "Crew-OS",
+    "power_questions": {
+      "A": {
+        "question": "SEE OTHERSCAPE CORE BOOK P. 151",
+        "subtag": false
+      },
+      "B": {
+        "question": "SEE OTHERSCAPE CORE BOOK P. 151",
+        "subtag": false
+      },
+      "C": {
+        "question": "SEE OTHERSCAPE CORE BOOK P. 151",
+        "subtag": false
+      },
+      "D": {
+        "question": "SEE OTHERSCAPE CORE BOOK P. 151",
+        "subtag": false
+      },
+      "E": {
+        "question": "SEE OTHERSCAPE CORE BOOK P. 151",
+        "subtag": false
+      },
+      "F": {
+        "question": "SEE OTHERSCAPE CORE BOOK P. 151",
+        "subtag": false
+      },
+      "G": {
+        "question": "SEE OTHERSCAPE CORE BOOK P. 151",
+        "subtag": false
+      },
+      "H": {
+        "question": "SEE OTHERSCAPE CORE BOOK P. 151",
+        "subtag": false
+      },
+      "I": {
+        "question": "SEE OTHERSCAPE CORE BOOK P. 151",
+        "subtag": false
+      },
+      "J": {
+        "question": "SEE OTHERSCAPE CORE BOOK P. 151",
+        "subtag": false
+      }
+    },
+    "weakness_questions": {
+      "A": {
+        "question": "SEE OTHERSCAPE CORE BOOK P. 151",
+        "subtag": false
+      },
+      "B": {
+        "question": "SEE OTHERSCAPE CORE BOOK P. 151",
+        "subtag": false
+      },
+      "C": {
+        "question": "SEE OTHERSCAPE CORE BOOK P. 151",
+        "subtag": false
+      },
+      "D": {
+        "question": "SEE OTHERSCAPE CORE BOOK P. 151",
+        "subtag": false
+      }
+    },
+    "improvements": {
+      "0": {
+        "name": "Sacrifice",
+        "description": "SEE OTHERSCAPE CORE BOOK P. 151",
+        "uses": null,
+        "effect_class": ""
+      },
+      "1": {
+        "name": "Quality Time",
+        "description": "SEE OTHERSCAPE CORE BOOK P. 151",
+        "uses": null,
+        "effect_class": ""
+      },
+      "2": {
+        "name": "Leg Up",
+        "description": "SEE OTHERSCAPE CORE BOOK P. 151",
+        "uses": 1,
+        "effect_class": ""
+      },
+      "3": {
+        "name": "Group Mind",
+        "description": "SEE OTHERSCAPE CORE BOOK P. 151",
+        "uses": 1,
+        "effect_class": ""
+      },
+      "4": {
+        "name": "For the Cause",
+        "description": "SEE OTHERSCAPE CORE BOOK P. 151",
+        "uses": null,
+        "effect_class": ""
+      }
+    },
+    "motivation": "motivation",
+    "fade_type": "fade",
+    "system_compatiblity": "otherscape",
+    "locale_name": "#Otherscape.terms.crew",
+    "systemName": "Crew-OS"
+  },
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "eZoEWX0q5xnrYPGQ": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "city-of-mist",
+    "systemVersion": "3.1.4",
+    "coreVersion": "13.345",
+    "createdTime": 1712169316135,
+    "modifiedTime": 1749592284260,
+    "lastModifiedBy": "eZoEWX0q5xnrYPGQ",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!ayN2BXLJ2IgQyfh8"
+}

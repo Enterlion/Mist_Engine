@@ -1,0 +1,130 @@
+{
+  "_id": "TLihUIPUef6qz08e",
+  "name": "Extra: Ally",
+  "type": "themebook",
+  "img": "icons/svg/mystery-man.svg",
+  "effects": [],
+  "folder": "KYLLQKGmHQGXNTgn",
+  "sort": 1000000,
+  "flags": {},
+  "system": {
+    "description": "",
+    "locked": false,
+    "version": "2.4.5",
+    "free_content": true,
+    "locale_name": "#CityOfMist.themebook.extra.ally.name",
+    "type": "Extra",
+    "power_questions": {
+      "A": {
+        "question": "#CityOfMist.themebook.extra.ally.reference",
+        "subtag": false
+      },
+      "B": {
+        "question": "#CityOfMist.themebook.extra.ally.reference",
+        "subtag": false
+      },
+      "C": {
+        "question": "#CityOfMist.themebook.extra.ally.reference",
+        "subtag": false
+      },
+      "D": {
+        "question": "#CityOfMist.themebook.extra.ally.reference",
+        "subtag": false
+      },
+      "E": {
+        "question": "#CityOfMist.themebook.extra.ally.reference",
+        "subtag": false
+      },
+      "F": {
+        "question": "#CityOfMist.themebook.extra.ally.reference",
+        "subtag": false
+      },
+      "G": {
+        "question": "#CityOfMist.themebook.extra.ally.reference",
+        "subtag": false
+      },
+      "H": {
+        "question": "#CityOfMist.themebook.extra.ally.reference",
+        "subtag": false
+      },
+      "I": {
+        "question": "#CityOfMist.themebook.extra.ally.reference",
+        "subtag": false
+      },
+      "J": {
+        "question": "#CityOfMist.themebook.extra.ally.reference",
+        "subtag": false
+      }
+    },
+    "weakness_questions": {
+      "A": {
+        "question": "#CityOfMist.themebook.extra.ally.reference",
+        "subtag": false
+      },
+      "B": {
+        "question": "#CityOfMist.themebook.extra.ally.reference",
+        "subtag": false
+      },
+      "C": {
+        "question": "#CityOfMist.themebook.extra.ally.reference",
+        "subtag": false
+      },
+      "D": {
+        "question": "#CityOfMist.themebook.extra.ally.reference",
+        "subtag": false
+      }
+    },
+    "improvements": {
+      "0": {
+        "name": "#CityOfMist.themebook.extra.ally.imp.0.name",
+        "description": "#CityOfMist.themebook.extra.ally.reference",
+        "uses": null,
+        "effect_class": ""
+      },
+      "1": {
+        "name": "#CityOfMist.themebook.extra.ally.imp.1.name",
+        "description": "#CityOfMist.themebook.extra.ally.reference",
+        "uses": 1,
+        "effect_class": ""
+      },
+      "2": {
+        "name": "#CityOfMist.themebook.extra.ally.imp.2.name",
+        "description": "#CityOfMist.themebook.extra.ally.reference",
+        "uses": 1,
+        "effect_class": ""
+      },
+      "3": {
+        "name": "#CityOfMist.themebook.extra.ally.imp.3.name",
+        "description": "#CityOfMist.themebook.extra.ally.reference",
+        "uses": 1,
+        "effect_class": ""
+      },
+      "4": {
+        "name": "#CityOfMist.themebook.extra.ally.imp.4.name",
+        "description": "#CityOfMist.themebook.extra.ally.reference",
+        "uses": null,
+        "effect_class": ""
+      }
+    },
+    "subtype": "Extra",
+    "motivation": "motivation",
+    "system_compatiblity": "city-of-mist",
+    "systemName": "Extra:Ally"
+  },
+  "ownership": {
+    "default": 0,
+    "NrlemU09UKqRfgTf": 3
+  },
+  "_stats": {
+    "systemId": "city-of-mist",
+    "systemVersion": "3.1.4",
+    "coreVersion": "13.345",
+    "createdTime": null,
+    "modifiedTime": 1749592602274,
+    "lastModifiedBy": "eZoEWX0q5xnrYPGQ",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!TLihUIPUef6qz08e"
+}

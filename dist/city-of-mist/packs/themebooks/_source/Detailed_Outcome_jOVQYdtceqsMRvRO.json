@@ -1,0 +1,48 @@
+{
+  "folder": "8v7jjpmGlY71tCFd",
+  "name": "Detailed Outcome",
+  "type": "move",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "",
+    "locked": false,
+    "version": "1",
+    "free_content": true,
+    "listConditionals": [],
+    "subtype": "standard",
+    "category": "Core",
+    "system_compatiblity": "legend",
+    "locale_name": "#Legend.moves.detailedOutcome.name",
+    "always": "",
+    "onMiss": "#Legend.moves.outcome.fail",
+    "onPartial": "#Legend.moves.outcome.partial",
+    "onSuccess": "#Legend.moves.outcome.success",
+    "onDynamite": "",
+    "effect_class": "",
+    "abbreviation": "",
+    "theme_class": "",
+    "systemName": "detailedOutcome"
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "XObjulrAnIfZ284S": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "city-of-mist",
+    "systemVersion": "3.1.4",
+    "coreVersion": "13.345",
+    "createdTime": 1711941543757,
+    "modifiedTime": 1749515610092,
+    "lastModifiedBy": "eZoEWX0q5xnrYPGQ",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "jOVQYdtceqsMRvRO",
+  "sort": 300000,
+  "_key": "!items!jOVQYdtceqsMRvRO"
+}

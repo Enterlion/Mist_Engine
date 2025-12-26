@@ -1,0 +1,129 @@
+{
+  "_id": "1z5W0q4yin2dVSmw",
+  "name": "Turf",
+  "type": "themebook",
+  "img": "icons/svg/mystery-man.svg",
+  "effects": [],
+  "folder": "7ji0PqBuZO78BzmB",
+  "sort": 400000,
+  "flags": {},
+  "system": {
+    "description": "",
+    "locked": false,
+    "version": "2.4.5",
+    "free_content": true,
+    "locale_name": "#CityOfMist.themebook.turf.name",
+    "type": "Logos",
+    "power_questions": {
+      "A": {
+        "question": "#CityOfMist.themebook.turf.reference",
+        "subtag": false
+      },
+      "B": {
+        "question": "#CityOfMist.themebook.turf.reference",
+        "subtag": false
+      },
+      "C": {
+        "question": "#CityOfMist.themebook.turf.reference",
+        "subtag": false
+      },
+      "D": {
+        "question": "#CityOfMist.themebook.turf.reference",
+        "subtag": false
+      },
+      "E": {
+        "question": "#CityOfMist.themebook.turf.reference",
+        "subtag": false
+      },
+      "F": {
+        "question": "#CityOfMist.themebook.turf.reference",
+        "subtag": false
+      },
+      "G": {
+        "question": "#CityOfMist.themebook.turf.reference",
+        "subtag": false
+      },
+      "H": {
+        "question": "#CityOfMist.themebook.turf.reference",
+        "subtag": false
+      },
+      "I": {
+        "question": "#CityOfMist.themebook.turf.reference",
+        "subtag": false
+      },
+      "J": {
+        "question": "#CityOfMist.themebook.turf.reference",
+        "subtag": false
+      }
+    },
+    "weakness_questions": {
+      "A": {
+        "question": "#CityOfMist.themebook.turf.reference",
+        "subtag": false
+      },
+      "B": {
+        "question": "#CityOfMist.themebook.turf.reference",
+        "subtag": false
+      },
+      "C": {
+        "question": "#CityOfMist.themebook.turf.reference",
+        "subtag": false
+      },
+      "D": {
+        "question": "#CityOfMist.themebook.turf.reference",
+        "subtag": false
+      }
+    },
+    "improvements": {
+      "0": {
+        "name": "#CityOfMist.themebook.turf.imp.0.name",
+        "description": "#CityOfMist.themebook.turf.reference",
+        "uses": 1,
+        "effect_class": ""
+      },
+      "1": {
+        "name": "#CityOfMist.themebook.turf.imp.1.name",
+        "description": "#CityOfMist.themebook.turf.reference",
+        "uses": 1,
+        "effect_class": ""
+      },
+      "2": {
+        "name": "#CityOfMist.themebook.turf.imp.2.name",
+        "description": "#CityOfMist.themebook.turf.reference",
+        "uses": null,
+        "effect_class": ""
+      },
+      "3": {
+        "name": "#CityOfMist.themebook.turf.imp.3.name",
+        "description": "#CityOfMist.themebook.turf.reference",
+        "uses": null,
+        "effect_class": ""
+      },
+      "4": {
+        "name": "#CityOfMist.themebook.turf.imp.4.name",
+        "description": "#CityOfMist.themebook.turf.reference",
+        "uses": null,
+        "effect_class": ""
+      }
+    },
+    "motivation": "identity",
+    "system_compatiblity": "city-of-mist",
+    "systemName": "Turf"
+  },
+  "ownership": {
+    "default": 0,
+    "vLgbC4k0egBgZMMz": 3
+  },
+  "_stats": {
+    "systemId": "city-of-mist",
+    "systemVersion": "3.1.4",
+    "coreVersion": "13.345",
+    "createdTime": null,
+    "modifiedTime": 1749513978968,
+    "lastModifiedBy": "eZoEWX0q5xnrYPGQ",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!1z5W0q4yin2dVSmw"
+}

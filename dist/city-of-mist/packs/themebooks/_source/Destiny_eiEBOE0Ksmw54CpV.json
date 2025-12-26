@@ -1,0 +1,129 @@
+{
+  "_id": "eiEBOE0Ksmw54CpV",
+  "name": "Destiny",
+  "type": "themebook",
+  "img": "icons/svg/mystery-man.svg",
+  "effects": [],
+  "folder": "Jb28LMLEO4u2yWqj",
+  "sort": 250000,
+  "flags": {},
+  "system": {
+    "description": "",
+    "locked": false,
+    "version": "2.4.5",
+    "free_content": true,
+    "locale_name": "#CityOfMist.themebook.destiny.name",
+    "type": "Mythos",
+    "power_questions": {
+      "A": {
+        "question": "#CityOfMist.themebook.destiny.reference",
+        "subtag": false
+      },
+      "B": {
+        "question": "#CityOfMist.themebook.destiny.reference",
+        "subtag": false
+      },
+      "C": {
+        "question": "#CityOfMist.themebook.destiny.reference",
+        "subtag": false
+      },
+      "D": {
+        "question": "#CityOfMist.themebook.destiny.reference",
+        "subtag": false
+      },
+      "E": {
+        "question": "#CityOfMist.themebook.destiny.reference",
+        "subtag": false
+      },
+      "F": {
+        "question": "#CityOfMist.themebook.destiny.reference",
+        "subtag": false
+      },
+      "G": {
+        "question": "#CityOfMist.themebook.destiny.reference",
+        "subtag": false
+      },
+      "H": {
+        "question": "#CityOfMist.themebook.destiny.reference",
+        "subtag": false
+      },
+      "I": {
+        "question": "#CityOfMist.themebook.destiny.reference",
+        "subtag": false
+      },
+      "J": {
+        "question": "#CityOfMist.themebook.destiny.reference",
+        "subtag": false
+      }
+    },
+    "weakness_questions": {
+      "A": {
+        "question": "#CityOfMist.themebook.destiny.reference",
+        "subtag": false
+      },
+      "B": {
+        "question": "#CityOfMist.themebook.destiny.reference",
+        "subtag": false
+      },
+      "C": {
+        "question": "#CityOfMist.themebook.destiny.reference",
+        "subtag": false
+      },
+      "D": {
+        "question": "#CityOfMist.themebook.destiny.reference",
+        "subtag": false
+      }
+    },
+    "improvements": {
+      "0": {
+        "name": "#CityOfMist.themebook.destiny.imp.0.name",
+        "description": "#CityOfMist.themebook.destiny.reference",
+        "uses": null,
+        "effect_class": "THEME_DYN_SELECT"
+      },
+      "1": {
+        "name": "#CityOfMist.themebook.destiny.imp.1.name",
+        "description": "#CityOfMist.themebook.destiny.reference",
+        "uses": null,
+        "effect_class": ""
+      },
+      "2": {
+        "name": "#CityOfMist.themebook.destiny.imp.2.name",
+        "description": "#CityOfMist.themebook.destiny.reference",
+        "uses": null,
+        "effect_class": ""
+      },
+      "3": {
+        "name": "#CityOfMist.themebook.destiny.imp.3.name",
+        "description": "#CityOfMist.themebook.destiny.reference",
+        "uses": null,
+        "effect_class": ""
+      },
+      "4": {
+        "name": "#CityOfMist.themebook.destiny.imp.4.name",
+        "description": "#CityOfMist.themebook.destiny.reference",
+        "uses": null,
+        "effect_class": ""
+      }
+    },
+    "subtype": "Mythos",
+    "system_compatiblity": "city-of-mist",
+    "systemName": "Destiny"
+  },
+  "ownership": {
+    "default": 0,
+    "vLgbC4k0egBgZMMz": 3
+  },
+  "_stats": {
+    "systemId": "city-of-mist",
+    "systemVersion": "3.1.4",
+    "coreVersion": "13.345",
+    "createdTime": null,
+    "modifiedTime": 1749513890405,
+    "lastModifiedBy": "eZoEWX0q5xnrYPGQ",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!eiEBOE0Ksmw54CpV"
+}

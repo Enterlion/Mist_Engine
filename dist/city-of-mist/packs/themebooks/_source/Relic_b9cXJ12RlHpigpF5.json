@@ -1,0 +1,131 @@
+{
+  "_id": "b9cXJ12RlHpigpF5",
+  "name": "Relic",
+  "type": "themebook",
+  "img": "icons/svg/mystery-man.svg",
+  "effects": [],
+  "folder": "Jb28LMLEO4u2yWqj",
+  "sort": 500000,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": "",
+    "locked": false,
+    "version": "2.4.5",
+    "free_content": true,
+    "locale_name": "#CityOfMist.themebook.relic.name",
+    "type": "Mythos",
+    "power_questions": {
+      "A": {
+        "question": "#CityOfMist.themebook.relic.reference",
+        "subtag": false
+      },
+      "B": {
+        "question": "#CityOfMist.themebook.relic.reference",
+        "subtag": false
+      },
+      "C": {
+        "question": "#CityOfMist.themebook.relic.reference",
+        "subtag": false
+      },
+      "D": {
+        "question": "#CityOfMist.themebook.relic.reference",
+        "subtag": false
+      },
+      "E": {
+        "question": "#CityOfMist.themebook.relic.reference",
+        "subtag": false
+      },
+      "F": {
+        "question": "#CityOfMist.themebook.relic.reference",
+        "subtag": false
+      },
+      "G": {
+        "question": "#CityOfMist.themebook.relic.reference",
+        "subtag": false
+      },
+      "H": {
+        "question": "#CityOfMist.themebook.relic.reference",
+        "subtag": false
+      },
+      "I": {
+        "question": "#CityOfMist.themebook.relic.reference",
+        "subtag": false
+      },
+      "J": {
+        "question": "#CityOfMist.themebook.relic.reference",
+        "subtag": false
+      }
+    },
+    "weakness_questions": {
+      "A": {
+        "question": "#CityOfMist.themebook.relic.reference",
+        "subtag": false
+      },
+      "B": {
+        "question": "#CityOfMist.themebook.relic.reference",
+        "subtag": false
+      },
+      "C": {
+        "question": "#CityOfMist.themebook.relic.reference",
+        "subtag": false
+      },
+      "D": {
+        "question": "#CityOfMist.themebook.relic.reference",
+        "subtag": false
+      }
+    },
+    "improvements": {
+      "0": {
+        "name": "#CityOfMist.themebook.relic.imp.0.name",
+        "description": "#CityOfMist.themebook.relic.reference",
+        "uses": null,
+        "effect_class": ""
+      },
+      "1": {
+        "name": "#CityOfMist.themebook.relic.imp.1.name",
+        "description": "#CityOfMist.themebook.relic.reference",
+        "uses": null,
+        "effect_class": "THEME_DYN_SELECT"
+      },
+      "2": {
+        "name": "#CityOfMist.themebook.relic.imp.2.name",
+        "description": "#CityOfMist.themebook.relic.reference",
+        "uses": null,
+        "effect_class": ""
+      },
+      "3": {
+        "name": "#CityOfMist.themebook.relic.imp.3.name",
+        "description": "#CityOfMist.themebook.relic.reference",
+        "uses": null,
+        "effect_class": ""
+      },
+      "4": {
+        "name": "#CityOfMist.themebook.relic.imp.4.name",
+        "description": "#CityOfMist.themebook.relic.reference",
+        "uses": null,
+        "effect_class": ""
+      }
+    },
+    "subtype": "Mythos",
+    "system_compatiblity": "city-of-mist",
+    "systemName": "Relic"
+  },
+  "ownership": {
+    "default": 0,
+    "vLgbC4k0egBgZMMz": 3
+  },
+  "_stats": {
+    "systemId": "city-of-mist",
+    "systemVersion": "3.1.4",
+    "coreVersion": "13.345",
+    "createdTime": null,
+    "modifiedTime": 1749513964127,
+    "lastModifiedBy": "eZoEWX0q5xnrYPGQ",
+    "compendiumSource": "Item.DVCsN3gFxYC591ns",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!b9cXJ12RlHpigpF5"
+}

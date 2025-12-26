@@ -1,0 +1,129 @@
+{
+  "_id": "kllV9UaMbgBnc6sw",
+  "name": "Conjuration",
+  "type": "themebook",
+  "img": "icons/svg/mystery-man.svg",
+  "effects": [],
+  "folder": "Jb28LMLEO4u2yWqj",
+  "sort": 300000,
+  "flags": {},
+  "system": {
+    "description": "",
+    "locked": false,
+    "version": "2.4.5",
+    "free_content": true,
+    "locale_name": "#CityOfMist.themebook.conjuration.name",
+    "type": "Mythos",
+    "power_questions": {
+      "A": {
+        "question": "#CityOfMist.themebook.conjuration.reference",
+        "subtag": false
+      },
+      "B": {
+        "question": "#CityOfMist.themebook.conjuration.reference",
+        "subtag": false
+      },
+      "C": {
+        "question": "#CityOfMist.themebook.conjuration.reference",
+        "subtag": false
+      },
+      "D": {
+        "question": "#CityOfMist.themebook.conjuration.reference",
+        "subtag": false
+      },
+      "E": {
+        "question": "#CityOfMist.themebook.conjuration.reference",
+        "subtag": false
+      },
+      "F": {
+        "question": "#CityOfMist.themebook.conjuration.reference",
+        "subtag": false
+      },
+      "G": {
+        "question": "#CityOfMist.themebook.conjuration.reference",
+        "subtag": false
+      },
+      "H": {
+        "question": "#CityOfMist.themebook.conjuration.reference",
+        "subtag": false
+      },
+      "I": {
+        "question": "#CityOfMist.themebook.conjuration.reference",
+        "subtag": false
+      },
+      "J": {
+        "question": "#CityOfMist.themebook.conjuration.reference",
+        "subtag": false
+      }
+    },
+    "weakness_questions": {
+      "A": {
+        "question": "#CityOfMist.themebook.conjuration.reference",
+        "subtag": false
+      },
+      "B": {
+        "question": "#CityOfMist.themebook.conjuration.reference",
+        "subtag": false
+      },
+      "C": {
+        "question": "#CityOfMist.themebook.conjuration.reference",
+        "subtag": false
+      },
+      "D": {
+        "question": "#CityOfMist.themebook.conjuration.reference",
+        "subtag": false
+      }
+    },
+    "improvements": {
+      "0": {
+        "name": "#CityOfMist.themebook.conjuration.imp.0.name",
+        "description": "#CityOfMist.themebook.conjuration.reference",
+        "uses": null,
+        "effect_class": ""
+      },
+      "1": {
+        "name": "#CityOfMist.themebook.conjuration.imp.1.name",
+        "description": "#CityOfMist.themebook.conjuration.reference",
+        "uses": null,
+        "effect_class": ""
+      },
+      "2": {
+        "name": "#CityOfMist.themebook.conjuration.imp.2.name",
+        "description": "#CityOfMist.themebook.conjuration.reference",
+        "uses": null,
+        "effect_class": "THEME_DYN_SELECT"
+      },
+      "3": {
+        "name": "#CityOfMist.themebook.conjuration.imp.3.name",
+        "description": "#CityOfMist.themebook.conjuration.reference",
+        "uses": null,
+        "effect_class": ""
+      },
+      "4": {
+        "name": "#CityOfMist.themebook.conjuration.imp.4.name",
+        "description": "#CityOfMist.themebook.conjuration.reference",
+        "uses": null,
+        "effect_class": ""
+      }
+    },
+    "subtype": "Mythos",
+    "system_compatiblity": "city-of-mist",
+    "systemName": "Conjuration"
+  },
+  "ownership": {
+    "default": 0,
+    "vLgbC4k0egBgZMMz": 3
+  },
+  "_stats": {
+    "systemId": "city-of-mist",
+    "systemVersion": "3.1.4",
+    "coreVersion": "13.345",
+    "createdTime": null,
+    "modifiedTime": 1749513880000,
+    "lastModifiedBy": "eZoEWX0q5xnrYPGQ",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!kllV9UaMbgBnc6sw"
+}

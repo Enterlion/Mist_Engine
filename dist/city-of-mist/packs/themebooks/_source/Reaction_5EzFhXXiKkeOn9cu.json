@@ -1,0 +1,48 @@
+{
+  "folder": "8v7jjpmGlY71tCFd",
+  "name": "Reaction",
+  "type": "move",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "",
+    "locked": false,
+    "version": "1",
+    "free_content": true,
+    "listConditionals": [],
+    "subtype": "standard",
+    "category": "Core",
+    "system_compatiblity": "legend",
+    "locale_name": "#Legend.moves.reaction.name",
+    "always": "",
+    "onMiss": "#Legend.moves.reaction.fail",
+    "onPartial": "#Legend.moves.reaction.partial",
+    "onSuccess": "#Legend.moves.reaction.success",
+    "onDynamite": "",
+    "effect_class": "",
+    "abbreviation": "",
+    "theme_class": "",
+    "systemName": "reaction"
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "XObjulrAnIfZ284S": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "city-of-mist",
+    "systemVersion": "3.1.4",
+    "coreVersion": "13.345",
+    "createdTime": 1711941612037,
+    "modifiedTime": 1749516631316,
+    "lastModifiedBy": "eZoEWX0q5xnrYPGQ",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "5EzFhXXiKkeOn9cu",
+  "sort": 0,
+  "_key": "!items!5EzFhXXiKkeOn9cu"
+}

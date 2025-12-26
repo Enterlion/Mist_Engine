@@ -1,0 +1,72 @@
+<form class="{{cssClass}} theme-book-sheet" autocomplete="off">
+	<header class="sheet-header">
+		<img class="profile-img" src="{{item.img}}" data-edit="img" title="{{item.name}}" />
+		<div class="header-fields">
+			<h1 class="item-name"><input name="name" type="text" value="{{item.name}}" placeholder="Themebook Name"/></h1>
+		</div>
+	</header>
+	<section class="sheet-body flex-vertical">
+		<div class="flex-row">
+			<label class="dialog-label">Theme Type</label>
+			<select name="system.subtype">
+				{{selectOptions THEME_SUBTYPES_PLUS_VARIES localize=true selected=item.system.subtype}}
+			</select>
+			
+			<label class="dialog-label">Identity Type</label>
+			<select name="system.motivation">
+				{{selectOptions MOTIVATIONLIST localize=true selected=item.system.motivation}}
+			</select>
+			
+			{{> "systems/city-of-mist/templates/parts/systemComp.hbs" item=item TBSYSTEMLIST=TBSYSTEMLIST}}
+		</div>
+		
+		<!-- Description -->
+		<label class="dialog-label">Description</label>
+		<textarea name="system.description">{{item.system.description}}</textarea>
+		
+		<!-- Power Tag Questions -->
+		{{> "systems/city-of-mist/templates/parts/themebook-questions.hbs" item=item data=data tagtype="power" questionList=item.system.power_questions}}
+		
+		<!-- Weakness Tag Questions -->
+		{{> "systems/city-of-mist/templates/parts/themebook-questions.hbs" item=item data=data tagtype="weakness" questionList=item.system.weakness_questions}}
+		
+		<!-- Improvements -->
+		<div id="improvements">
+			<h1 id="improvements-header">Improvements
+				<a class="add-improvement" data-distinct="true" data-tag-type="weakness_questions" data-item-type="themebook" data-duplicates="false" data-actor-id={{actor.id}}> 
+					<i class="fas fa-plus-square"></i>
+				</a>
+			</h1>
+			{{#each item.system.improvements as |imp ind|}}
+			{{#if (ne imp "_DELETED_")}}
+			<div id="improvement-question-{ind}" class="themebook-improvement-entry">
+				<input class="improvement-name" name="system.improvements.{{ind}}.name" type="text" value="{{imp.name}}" title="Improvement Name" placeholder="Name"/>
+				<input class="improvement-description" name="system.improvements.{{ind}}.description" type="text" value="{{imp.description}}" title="Description" placeholder="Description"/>
+				<input class="improvement-uses" name="system.improvements.{{ind}}.uses" type="number" value="{{imp.uses}}" placeholder="Uses" title="Number of Uses (leave blank for unlimited)"/>
+				<input class="effect-class" name="system.improvements.{{ind}}.effect_class" type="text" value="{{imp.effect_class}}" placeholder="Effect" title="Effect Class"/>
+				<a class="delete-improvement" data-improvement-index="{{ind}}" title="Delete Improvement"><i class="fas fa-trash"></i></a>
+			</div>
+			{{/if}}
+			{{/each}}
+		</div>
+		
+		<!-- Advanced Options (collapsed by default) -->
+		{{#if (devMode)}}
+		<details>
+			<summary><strong>Advanced Options</strong></summary>
+			<div style="padding: 10px;">
+				<label class="dialog-label">Locale Name (for translations)</label>
+				<input name="system.locale_name" type="text" value="{{item.system.locale_name}}" placeholder="Locale Name"/>
+				
+				<label class="dialog-label">System Name</label>
+				<input class="system-name" type="text" name="system.systemName" value="{{item.system.systemName}}">
+				
+				<label class="dialog-label">
+					<input type="checkbox" name="system.free_content" {{#if item.system.free_content}} checked {{/if}}>
+					Allow Override (Players can customize this themebook)
+				</label>
+			</div>
+		</details>
+		{{/if}}
+	</section>
+</form>
